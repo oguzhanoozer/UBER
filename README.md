@@ -101,12 +101,19 @@ UberSwiftUI/
 
 ## Firebase Dependencies
 <ul>
+  <li>FirebaseAuth</li>
+  <li>FirebaseFirestore</li>
+  <li>FirebaseStorage</li>
+  <li>FirebaseFirestoreSwift</li>
+</ul>
 
 # 📂 App Images
 
 <img src="https://github.com/user-attachments/assets/6b8fccf9-887e-4d9b-bafe-90413bdd9b63" width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro Max">
 
 <img src="https://github.com/user-attachments/assets/f8a7d087-15ac-4044-bd8c-9102191e5892" width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro Max">
+
+<img src="https://github.com/user-attachments/assets/2559d3f0-cfdb-4be6-b3c1-b09d7354881c" width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro Max">
 
 <img src="https://github.com/user-attachments/assets/389ab224-2d65-486f-adb4-69f8c8a5fccd" width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro">
 
@@ -120,10 +127,6 @@ UberSwiftUI/
 
 <img src="https://github.com/user-attachments/assets/652bf263-e5c6-4364-9007-c702791bd46b" width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro Max">
 
-<img src="https://github.com/user-attachments/assets/6ed2cd9e-743c-477d-ace7-369caeb32250" width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro Max">
-
-<img src="https://github.com/user-attachments/assets/2559d3f0-cfdb-4be6-b3c1-b09d7354881c" width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro Max">
-
 <img src="https://github.com/user-attachments/assets/96e33b5a-2d86-4b09-9bde-9497c2d24e3e" width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro Max">
 
 <img src="https://github.com/user-attachments/assets/586b1f56-c18f-475f-a5ba-abeb0409bf02" width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro Max">
@@ -132,15 +135,7 @@ UberSwiftUI/
 
 <img src="https://github.com/user-attachments/assets/77d2ca78-dd04-4edd-832d-8abb605c6b56" width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro Max">
 
-<img src="https://github.com/user-attachments/assets/69248d56-7009-4899-8a6c-e33d418399b7" width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro Max">
 
 
 
 
-
-  
-  <li>FirebaseAuth</li>
-  <li>FirebaseFirestore</li>
-  <li>FirebaseStorage</li>
-  <li>FirebaseFirestoreSwift</li>
-</ul>
